@@ -1,3 +1,9 @@
+Search for a Value
+Get the Nth Node
+
+
+
+
 To get the Nth node in a singly linked list, you can follow these steps:
 
 1. Start from the head of the linked list.
